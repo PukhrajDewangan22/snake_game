@@ -27,9 +27,6 @@ The Snake Game is a classic arcade game developed using Python and its libraries
    - Avoid colliding with the walls or the snake's body!
 
 
-## Author
-
-Developed by Pukhraj Dewangan.
 
 ---
 Enjoy playing the Snake Game and feel free to improve or modify it as you like!
